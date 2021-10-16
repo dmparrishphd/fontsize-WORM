@@ -1,2 +1,1 @@
-# fontsize-WORM
-schemes for aesthetic font sizes
+[README](https://github.com/dmparrishphd/fontsize-CORW/blob/main/README.md).
